@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "把文章或本地 Markdown/TXT 转成 5~8 张知识卡片"
+  default_prompt: "用 $make-knowledge-cards 把这篇文章整理成 5~8 张知识卡片。"
